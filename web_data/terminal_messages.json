@@ -1,0 +1,502 @@
+[
+  {
+    "timestamp": "2025-08-20T19:33:25.700425",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:34:25.773542",
+    "level": "INFO",
+    "message": "Market: $3338.16 | RSI: 46.7 | Stoch: 59.0/48.4 | Spread: 18.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:35:23.840120",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:35:25.848904",
+    "level": "INFO",
+    "message": "Market: $3338.04 | RSI: 42.4 | Stoch: 51.8/56.8 | Spread: 18.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:35:25.852827",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:36:25.932057",
+    "level": "INFO",
+    "message": "Market: $3338.85 | RSI: 44.1 | Stoch: 100.0/78.5 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:37:24.025248",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:37:26.034815",
+    "level": "INFO",
+    "message": "Market: $3339.13 | RSI: 38.4 | Stoch: 91.1/83.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:37:26.038355",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:38:26.120599",
+    "level": "INFO",
+    "message": "Market: $3340.05 | RSI: 30.2 | Stoch: 83.7/91.4 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:39:24.193108",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:39:26.201481",
+    "level": "INFO",
+    "message": "Market: $3339.87 | RSI: 34.0 | Stoch: 78.4/86.3 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:39:26.205330",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:40:26.285000",
+    "level": "INFO",
+    "message": "Market: $3339.69 | RSI: 29.2 | Stoch: 73.2/74.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:41:24.354301",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:41:26.362601",
+    "level": "INFO",
+    "message": "Market: $3339.38 | RSI: 29.1 | Stoch: 64.1/66.3 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:41:26.365959",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:42:26.445339",
+    "level": "INFO",
+    "message": "Market: $3339.64 | RSI: 36.9 | Stoch: 71.7/69.1 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:43:24.519387",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:43:26.528147",
+    "level": "INFO",
+    "message": "Market: $3339.69 | RSI: 39.1 | Stoch: 73.2/72.1 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:43:26.531540",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:44:26.624274",
+    "level": "INFO",
+    "message": "Market: $3339.79 | RSI: 55.5 | Stoch: 76.1/75.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:45:24.713475",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:45:26.731308",
+    "level": "INFO",
+    "message": "Market: $3340.23 | RSI: 53.3 | Stoch: 87.3/80.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:45:26.736100",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:46:26.819947",
+    "level": "INFO",
+    "message": "Market: $3340.14 | RSI: 38.0 | Stoch: 84.3/82.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:47:24.891231",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:47:26.900008",
+    "level": "INFO",
+    "message": "Market: $3340.32 | RSI: 41.8 | Stoch: 89.4/85.0 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:47:26.903570",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:48:26.975718",
+    "level": "INFO",
+    "message": "Market: $3340.89 | RSI: 44.6 | Stoch: 100.0/93.4 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:49:25.044198",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:49:27.052629",
+    "level": "INFO",
+    "message": "Market: $3340.72 | RSI: 52.5 | Stoch: 92.0/95.3 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:49:27.056044",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:50:27.127442",
+    "level": "INFO",
+    "message": "Market: $3340.80 | RSI: 55.2 | Stoch: 82.5/89.2 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:51:19.196860",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:51:20.208314",
+    "level": "INFO",
+    "message": "Market: $3341.29 | RSI: 58.5 | Stoch: 98.2/93.3 | Spread: 17.0pts | Pos: 0"
+  },
+  {
+    "timestamp": "2025-08-20T19:51:50.281519",
+    "level": "INFO",
+    "message": "Market: $3341.14 | RSI: 58.5 | Stoch: 89.6/90.5 | Spread: 17.0pts | Pos: 0"
+  },
+  {
+    "timestamp": "2025-08-20T19:52:19.348538",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:52:20.357045",
+    "level": "INFO",
+    "message": "Market: $3341.47 | RSI: 67.3 | Stoch: 100.0/95.7 | Spread: 17.0pts | Pos: 0"
+  },
+  {
+    "timestamp": "2025-08-20T19:52:20.360559",
+    "level": "DEBUG",
+    "message": "No signal: No signal: RSI 67.3, Stoch 100.0/95.7"
+  },
+  {
+    "timestamp": "2025-08-20T19:52:23.372682",
+    "level": "INFO",
+    "message": "SELL SIGNAL: RSI overbought (67.3), Stochastic overbought (90.9<92.7), Price below MA (3341.26<3338.44)"
+  },
+  {
+    "timestamp": "2025-08-20T19:52:23.704863",
+    "level": "SUCCESS",
+    "message": "SELL ORDER: 0.01 lots at 3341.26 | SL: 3344.26 | TP: 3337.26 | Enhanced_SELL_67.3"
+  },
+  {
+    "timestamp": "2025-08-20T19:52:23.711081",
+    "level": "SUCCESS",
+    "message": "SELL order placed successfully"
+  },
+  {
+    "timestamp": "2025-08-20T19:53:16.774690",
+    "level": "INFO",
+    "message": "Market: $3340.49 | RSI: 69.5 | Stoch: 57.8/75.4 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:54:14.842216",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:54:16.852373",
+    "level": "INFO",
+    "message": "Market: $3340.59 | RSI: 69.8 | Stoch: 62.1/62.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:54:16.855889",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:55:16.927803",
+    "level": "INFO",
+    "message": "Market: $3340.92 | RSI: 67.7 | Stoch: 72.8/67.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:56:14.995673",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:56:17.004663",
+    "level": "INFO",
+    "message": "Market: $3340.56 | RSI: 60.1 | Stoch: 55.0/66.6 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:56:17.008265",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:57:17.081871",
+    "level": "INFO",
+    "message": "Market: $3339.61 | RSI: 65.4 | Stoch: 6.1/34.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:58:15.146816",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T19:58:17.156084",
+    "level": "INFO",
+    "message": "Market: $3338.92 | RSI: 67.5 | Stoch: 0.0/10.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:58:17.159536",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T19:59:17.230441",
+    "level": "INFO",
+    "message": "Market: $3339.05 | RSI: 75.3 | Stoch: 13.3/6.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:00:15.295431",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:00:17.304341",
+    "level": "INFO",
+    "message": "Market: $3339.82 | RSI: 75.4 | Stoch: 40.9/26.2 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:00:17.308453",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:01:17.380723",
+    "level": "INFO",
+    "message": "Market: $3339.04 | RSI: 61.5 | Stoch: 12.9/25.1 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:02:15.444901",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:02:17.453150",
+    "level": "INFO",
+    "message": "Market: $3340.27 | RSI: 66.6 | Stoch: 57.0/46.0 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:02:17.456467",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:03:17.525858",
+    "level": "INFO",
+    "message": "Market: $3339.55 | RSI: 59.1 | Stoch: 31.2/41.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:04:15.592754",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:04:17.601726",
+    "level": "INFO",
+    "message": "Market: $3339.76 | RSI: 57.4 | Stoch: 38.7/34.9 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:04:17.605105",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:05:17.677216",
+    "level": "INFO",
+    "message": "Market: $3339.49 | RSI: 55.1 | Stoch: 29.0/30.7 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:06:15.744617",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:06:17.753033",
+    "level": "INFO",
+    "message": "Market: $3339.80 | RSI: 54.7 | Stoch: 44.3/42.4 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:06:17.756378",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:07:17.829675",
+    "level": "INFO",
+    "message": "Market: $3339.46 | RSI: 51.8 | Stoch: 30.8/34.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:08:15.895343",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:08:17.903884",
+    "level": "INFO",
+    "message": "Market: $3339.98 | RSI: 58.4 | Stoch: 51.4/42.2 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:08:17.907230",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:09:17.979542",
+    "level": "INFO",
+    "message": "Market: $3339.96 | RSI: 58.9 | Stoch: 62.7/52.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:10:16.047046",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:10:18.055563",
+    "level": "INFO",
+    "message": "Market: $3339.82 | RSI: 53.2 | Stoch: 64.8/61.6 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:10:18.058900",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:11:18.130020",
+    "level": "INFO",
+    "message": "Market: $3339.89 | RSI: 53.7 | Stoch: 66.5/73.2 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:12:16.198503",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:12:18.206967",
+    "level": "INFO",
+    "message": "Market: $3339.78 | RSI: 49.5 | Stoch: 60.4/75.6 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:12:18.210331",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:13:18.282600",
+    "level": "INFO",
+    "message": "Market: $3339.81 | RSI: 39.2 | Stoch: 54.9/65.6 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:14:16.361832",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:14:18.370638",
+    "level": "INFO",
+    "message": "Market: $3340.16 | RSI: 46.0 | Stoch: 77.8/68.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:14:18.374407",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:15:18.460296",
+    "level": "INFO",
+    "message": "Market: $3340.29 | RSI: 50.7 | Stoch: 83.2/79.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:16:16.531846",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:16:18.540542",
+    "level": "INFO",
+    "message": "Market: $3339.85 | RSI: 54.1 | Stoch: 48.0/65.0 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:16:18.543945",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:17:18.616578",
+    "level": "INFO",
+    "message": "Market: $3340.03 | RSI: 54.0 | Stoch: 62.4/59.5 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:18:16.686900",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:18:18.696179",
+    "level": "INFO",
+    "message": "Market: $3340.24 | RSI: 54.7 | Stoch: 79.2/74.1 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:18:18.699528",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:19:18.774951",
+    "level": "INFO",
+    "message": "Market: $3340.34 | RSI: 60.9 | Stoch: 87.2/88.8 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:20:16.844662",
+    "level": "INFO",
+    "message": "Config loaded: Risk 1.5%, RSI 40-60"
+  },
+  {
+    "timestamp": "2025-08-20T20:20:18.855787",
+    "level": "INFO",
+    "message": "Market: $3339.94 | RSI: 56.4 | Stoch: 55.2/67.5 | Spread: 17.0pts | Pos: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:20:18.859218",
+    "level": "INFO",
+    "message": "Max positions reached: 1"
+  },
+  {
+    "timestamp": "2025-08-20T20:20:38.867019",
+    "level": "WARNING",
+    "message": "Trading bot stopped by user"
+  }
+]
